@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|d:\\projetosc#\\sistemadeemprestimos2.0\\sistemadeemprestimos\\projeto\\dal\\emprestimodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|solutionrelative:projeto\\dal\\emprestimodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\projeto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|solutionrelative:projeto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\projeto\\bll\\emprestimobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|solutionrelative:projeto\\bll\\emprestimobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+  "WorkspaceRootPath": "D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|d:\\projetosc#\\sistemaemprestimo\\sistemadeemprestimos\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\projeto\\emprestimobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|solutionrelative:projeto\\emprestimobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\projeto\\emprestimodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2917EE68-9925-435D-9CCC-6182175B1781}|Projeto\\Projeto.csproj|solutionrelative:projeto\\emprestimodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\App.config",
+              "RelativeDocumentMoniker": "Projeto\\App.config",
+              "ToolTip": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\App.config",
+              "RelativeToolTip": "Projeto\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-13T03:55:35.821Z",
+=======
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\Projeto\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
+              "ToolTip": "D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\Projeto\\Form1.cs",
+              "RelativeToolTip": "Projeto\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:55:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\Projeto\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
+              "ToolTip": "D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\Projeto\\Form1.cs [Design]",
+              "RelativeToolTip": "Projeto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:55:08.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmprestimoBLL.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\Projeto\\EmprestimoBLL.cs",
+              "RelativeDocumentMoniker": "Projeto\\EmprestimoBLL.cs",
+              "ToolTip": "D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\Projeto\\EmprestimoBLL.cs",
+              "RelativeToolTip": "Projeto\\EmprestimoBLL.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvy0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:40:39.21Z",
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+              "Title": "EmprestimoDAL.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\DAL\\EmprestimoDAL.cs",
+              "RelativeDocumentMoniker": "Projeto\\DAL\\EmprestimoDAL.cs",
+              "ToolTip": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\DAL\\EmprestimoDAL.cs",
+              "RelativeToolTip": "Projeto\\DAL\\EmprestimoDAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:11:13.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmprestimoBLL.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\BLL\\EmprestimoBLL.cs",
+              "RelativeDocumentMoniker": "Projeto\\BLL\\EmprestimoBLL.cs",
+              "ToolTip": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\BLL\\EmprestimoBLL.cs",
+              "RelativeToolTip": "Projeto\\BLL\\EmprestimoBLL.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:10:46.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
+              "ToolTip": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\Form1.cs [Design]",
+              "RelativeToolTip": "Projeto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:09:09.692Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
+              "ToolTip": "D:\\ProjetosC#\\SistemaDeEmprestimos2.0\\SistemaDeEmprestimos\\Projeto\\Form1.cs",
+              "RelativeToolTip": "Projeto\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:25:42.913Z",
+=======
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+              "DocumentIndex": 3,
+              "Title": "EmprestimoDAL.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\Projeto\\EmprestimoDAL.cs",
+              "RelativeDocumentMoniker": "Projeto\\EmprestimoDAL.cs",
+              "ToolTip": "D:\\ProjetosC#\\SistemaEmprestimo\\SistemaDeEmprestimos\\Projeto\\EmprestimoDAL.cs",
+              "RelativeToolTip": "Projeto\\EmprestimoDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:48:16.268Z",
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
