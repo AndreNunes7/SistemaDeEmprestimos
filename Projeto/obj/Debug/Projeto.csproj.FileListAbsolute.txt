@@ -1,0 +1,166 @@
+D:\ProjetoEmprestimo\Projeto\Projeto\bin\Debug\Projeto.exe.config
+D:\ProjetoEmprestimo\Projeto\Projeto\bin\Debug\Projeto.exe
+D:\ProjetoEmprestimo\Projeto\Projeto\bin\Debug\Projeto.pdb
+D:\ProjetoEmprestimo\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+D:\ProjetoEmprestimo\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+D:\ProjetoEmprestimo\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+D:\ProjetoEmprestimo\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+D:\ProjetoEmprestimo\Projeto\Projeto\obj\Debug\Projeto.exe
+D:\ProjetoEmprestimo\Projeto\Projeto\obj\Debug\Projeto.pdb
+D:\ProjetoEmprestimo\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.AtualizarSenha.resources
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.CriarUsuario.resources
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Solicitar_emprestimo.resources
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.exe
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.pdb
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\bin\Debug\Projeto.exe
+C:\Users\kayky\Source\Repos\AndreNunes7\SistemaDeEmprestimos\Projeto\bin\Debug\Projeto.pdb
+<<<<<<< HEAD
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Projeto.exe.config
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Projeto.exe
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Projeto.pdb
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.AtualizarSenha.resources
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.CriarUsuario.resources
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Form1.resources
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Solicitar_emprestimo.resources
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.exe
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.pdb
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\BancoDeDados.accdb
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Data.OleDb.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Data.OleDb.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.Up2Date
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Azure.Core.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Azure.Identity.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.Identity.Client.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Buffers.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Memory.Data.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Memory.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Numerics.Vectors.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.AccessControl.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.Permissions.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.Principal.Windows.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Text.Encodings.Web.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Text.Json.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.ValueTuple.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Azure.Core.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Azure.Identity.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.Identity.Client.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Buffers.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Memory.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Memory.Data.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Numerics.Vectors.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.AccessControl.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.Permissions.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.Principal.Windows.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Text.Encodings.Web.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Text.Json.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\System.ValueTuple.xml
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\DatabaseConnections.dll
+D:\ProjetosC#\SistemaEmprestimo\SistemaDeEmprestimos\Projeto\bin\Debug\DatabaseConnections.OleDb.dll
+=======
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\bin\Debug\Projeto.exe
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\bin\Debug\Projeto.pdb
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.AtualizarSenha.resources
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.CriarUsuario.resources
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.Solicitar_emprestimo.resources
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.exe
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.pdb
+C:\Users\kayky\OneDrive\Área de Trabalho\Sistema de emprestimo\Projeto\obj\Debug\Projeto.Consultar.resources
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\Projeto.exe.config
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\Projeto.exe
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\Projeto.pdb
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.AtualizarSenha.resources
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Consultar.resources
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.CriarUsuario.resources
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Form1.resources
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.Solicitar_emprestimo.resources
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.exe
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.pdb
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\BancoDeDados.accdb
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\System.Data.OleDb.dll
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\System.Data.OleDb.xml
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\obj\Debug\Projeto.csproj.Up2Date
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\DatabaseConnections.dll
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\DatabaseConnections.OleDb.dll
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.AccessControl.dll
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.Principal.Windows.dll
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.AccessControl.xml
+D:\ProjetosC#\SistemaDeEmprestimos2.0\SistemaDeEmprestimos\Projeto\bin\Debug\System.Security.Principal.Windows.xml
+=======
+>>>>>>> c6040666e318952654febff8bb0a60f4cf8934c0
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> c6040666e318952654febff8bb0a60f4cf8934c0
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+>>>>>>> c6040666e318952654febff8bb0a60f4cf8934c0
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1

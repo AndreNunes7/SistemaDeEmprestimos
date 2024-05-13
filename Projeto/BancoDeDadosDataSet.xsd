@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BancoDeDadosDataSet" targetNamespace="http://tempuri.org/BancoDeDadosDataSet.xsd" xmlns:mstns="http://tempuri.org/BancoDeDadosDataSet.xsd" xmlns="http://tempuri.org/BancoDeDadosDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BancoDeDadosConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BancoDeDadosConnectionString1 (Settings)" PropertyReference="ApplicationSettings.Projeto.Properties.Settings.GlobalReference.Default.BancoDeDadosConnectionString" Provider="System.Data.OleDb" />
+=======
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BancoDeDadosConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BancoDeDadosConnectionString (Settings)" PropertyReference="ApplicationSettings.Projeto.Properties.Settings.GlobalReference.Default.BancoDeDadosConnectionString" Provider="System.Data.OleDb" />
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BancoDeDadosConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BancoDeDadosConnectionString (Settings)" PropertyReference="ApplicationSettings.Projeto.Properties.Settings.GlobalReference.Default.BancoDeDadosConnectionString" Provider="System.Data.OleDb" />
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BancoDeDadosConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BancoDeDadosConnectionString (Settings)" PropertyReference="ApplicationSettings.Projeto.Properties.Settings.GlobalReference.Default.BancoDeDadosConnectionString" Provider="System.Data.OleDb" />
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="EmprestimoTableAdapter" GeneratorDataComponentClassName="EmprestimoTableAdapter" Name="Emprestimo" UserDataComponentName="EmprestimoTableAdapter">
+            <MainSource>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+              <DbSource ConnectionRef="BancoDeDadosConnectionString1 (Settings)" DbObjectName="Emprestimo" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+=======
+              <DbSource ConnectionRef="BancoDeDadosConnectionString (Settings)" DbObjectName="Emprestimo" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+              <DbSource ConnectionRef="BancoDeDadosConnectionString (Settings)" DbObjectName="Emprestimo" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+              <DbSource ConnectionRef="BancoDeDadosConnectionString (Settings)" DbObjectName="Emprestimo" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>DELETE FROM `Emprestimo` WHERE ((`ID` = ?) AND ((? = 1 AND `ID usuario` IS NULL) OR (`ID usuario` = ?)) AND ((? = 1 AND `Valor emprestimo` IS NULL) OR (`Valor emprestimo` = ?)) AND ((? = 1 AND `Data inicio` IS NULL) OR (`Data inicio` = ?)) AND ((? = 1 AND `Data Termino` IS NULL) OR (`Data Termino` = ?)) AND ((? = 1 AND `Taxa juros` IS NULL) OR (`Taxa juros` = ?)) AND ((? = 1 AND `Status` IS NULL) OR (`Status` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_ID_usuario" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID usuario" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID_usuario" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID usuario" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Valor_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor emprestimo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_Valor_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor emprestimo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Data_inicio" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Data inicio" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Original_Data_inicio" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data inicio" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Data_Termino" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Data Termino" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Original_Data_Termino" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data Termino" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Taxa_juros" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Taxa juros" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_Taxa_juros" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Taxa juros" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Status" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Status" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="Original_Status" Precision="0" ProviderType="Boolean" Scale="0" Size="0" SourceColumn="Status" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `Emprestimo` (`ID usuario`, `Valor emprestimo`, `Data inicio`, `Data Termino`, `Taxa juros`, `Status`) VALUES (?, ?, ?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="ID_usuario" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID usuario" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Valor_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor emprestimo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Data_inicio" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data inicio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Data_Termino" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data Termino" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Taxa_juros" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Taxa juros" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="Status" Precision="0" ProviderType="Boolean" Scale="0" Size="0" SourceColumn="Status" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ID, [ID usuario], [Valor emprestimo], [Data inicio], [Data Termino], [Taxa juros], Status FROM Emprestimo</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE `Emprestimo` SET `ID usuario` = ?, `Valor emprestimo` = ?, `Data inicio` = ?, `Data Termino` = ?, `Taxa juros` = ?, `Status` = ? WHERE ((`ID` = ?) AND ((? = 1 AND `ID usuario` IS NULL) OR (`ID usuario` = ?)) AND ((? = 1 AND `Valor emprestimo` IS NULL) OR (`Valor emprestimo` = ?)) AND ((? = 1 AND `Data inicio` IS NULL) OR (`Data inicio` = ?)) AND ((? = 1 AND `Data Termino` IS NULL) OR (`Data Termino` = ?)) AND ((? = 1 AND `Taxa juros` IS NULL) OR (`Taxa juros` = ?)) AND ((? = 1 AND `Status` IS NULL) OR (`Status` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="ID_usuario" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID usuario" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Valor_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor emprestimo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Data_inicio" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data inicio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Data_Termino" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data Termino" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Taxa_juros" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Taxa juros" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="Status" Precision="0" ProviderType="Boolean" Scale="0" Size="0" SourceColumn="Status" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_ID_usuario" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID usuario" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID_usuario" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID usuario" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Valor_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor emprestimo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_Valor_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor emprestimo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Data_inicio" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Data inicio" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Original_Data_inicio" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data inicio" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Data_Termino" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Data Termino" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Original_Data_Termino" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data Termino" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Taxa_juros" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Taxa juros" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_Taxa_juros" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Taxa juros" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Status" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Status" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="Original_Status" Precision="0" ProviderType="Boolean" Scale="0" Size="0" SourceColumn="Status" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="ID usuario" DataSetColumn="ID usuario" />
+              <Mapping SourceColumn="Valor emprestimo" DataSetColumn="Valor emprestimo" />
+              <Mapping SourceColumn="Data inicio" DataSetColumn="Data inicio" />
+              <Mapping SourceColumn="Data Termino" DataSetColumn="Data Termino" />
+              <Mapping SourceColumn="Taxa juros" DataSetColumn="Taxa juros" />
+              <Mapping SourceColumn="Status" DataSetColumn="Status" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PagamentosTableAdapter" GeneratorDataComponentClassName="PagamentosTableAdapter" Name="Pagamentos" UserDataComponentName="PagamentosTableAdapter">
+            <MainSource>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+              <DbSource ConnectionRef="BancoDeDadosConnectionString1 (Settings)" DbObjectName="Pagamentos" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+=======
+              <DbSource ConnectionRef="BancoDeDadosConnectionString (Settings)" DbObjectName="Pagamentos" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+              <DbSource ConnectionRef="BancoDeDadosConnectionString (Settings)" DbObjectName="Pagamentos" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+              <DbSource ConnectionRef="BancoDeDadosConnectionString (Settings)" DbObjectName="Pagamentos" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>DELETE FROM `Pagamentos` WHERE ((`ID` = ?) AND ((? = 1 AND `ID emprestimo` IS NULL) OR (`ID emprestimo` = ?)) AND ((? = 1 AND `Valor Pagamento` IS NULL) OR (`Valor Pagamento` = ?)) AND ((? = 1 AND `Data pagamento` IS NULL) OR (`Data pagamento` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_ID_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID emprestimo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID emprestimo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Valor_Pagamento" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor Pagamento" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_Valor_Pagamento" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor Pagamento" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Data_pagamento" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Data pagamento" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Original_Data_pagamento" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data pagamento" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `Pagamentos` (`ID emprestimo`, `Valor Pagamento`, `Data pagamento`) VALUES (?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="ID_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID emprestimo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Valor_Pagamento" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor Pagamento" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Data_pagamento" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data pagamento" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ID, [ID emprestimo], [Valor Pagamento], [Data pagamento] FROM Pagamentos</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE `Pagamentos` SET `ID emprestimo` = ?, `Valor Pagamento` = ?, `Data pagamento` = ? WHERE ((`ID` = ?) AND ((? = 1 AND `ID emprestimo` IS NULL) OR (`ID emprestimo` = ?)) AND ((? = 1 AND `Valor Pagamento` IS NULL) OR (`Valor Pagamento` = ?)) AND ((? = 1 AND `Data pagamento` IS NULL) OR (`Data pagamento` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="ID_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID emprestimo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Valor_Pagamento" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor Pagamento" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Data_pagamento" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data pagamento" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_ID_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID emprestimo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID_emprestimo" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID emprestimo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Valor_Pagamento" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor Pagamento" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_Valor_Pagamento" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Valor Pagamento" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Data_pagamento" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Data pagamento" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="DateTime" Direction="Input" ParameterName="Original_Data_pagamento" Precision="0" ProviderType="Date" Scale="0" Size="0" SourceColumn="Data pagamento" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="ID emprestimo" DataSetColumn="ID emprestimo" />
+              <Mapping SourceColumn="Valor Pagamento" DataSetColumn="Valor Pagamento" />
+              <Mapping SourceColumn="Data pagamento" DataSetColumn="Data pagamento" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="UsuariosTableAdapter" GeneratorDataComponentClassName="UsuariosTableAdapter" Name="Usuarios" UserDataComponentName="UsuariosTableAdapter">
+            <MainSource>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+              <DbSource ConnectionRef="BancoDeDadosConnectionString1 (Settings)" DbObjectName="Usuarios" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+=======
+              <DbSource ConnectionRef="BancoDeDadosConnectionString (Settings)" DbObjectName="Usuarios" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+              <DbSource ConnectionRef="BancoDeDadosConnectionString (Settings)" DbObjectName="Usuarios" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+=======
+              <DbSource ConnectionRef="BancoDeDadosConnectionString (Settings)" DbObjectName="Usuarios" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+>>>>>>> a866bd5c167e6aa483227be7a98bc64d93dc33e1
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>DELETE FROM `Usuarios` WHERE ((`ID` = ?) AND ((? = 1 AND `Nome` IS NULL) OR (`Nome` = ?)) AND ((? = 1 AND `Senha` IS NULL) OR (`Senha` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Nome" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Nome" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Nome" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Nome" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Senha" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Senha" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Senha" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Senha" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `Usuarios` (`Nome`, `Senha`) VALUES (?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Nome" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Nome" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Senha" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Senha" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ID, Nome, Senha FROM Usuarios</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE `Usuarios` SET `Nome` = ?, `Senha` = ? WHERE ((`ID` = ?) AND ((? = 1 AND `Nome` IS NULL) OR (`Nome` = ?)) AND ((? = 1 AND `Senha` IS NULL) OR (`Senha` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Nome" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Nome" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Senha" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Senha" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="Original_ID" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="ID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Nome" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Nome" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Nome" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Nome" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="IsNull_Senha" Precision="0" ProviderType="Integer" Scale="0" Size="0" SourceColumn="Senha" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="Original_Senha" Precision="0" ProviderType="VarWChar" Scale="0" Size="0" SourceColumn="Senha" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="Nome" DataSetColumn="Nome" />
+              <Mapping SourceColumn="Senha" DataSetColumn="Senha" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BancoDeDadosDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="BancoDeDadosDataSet" msprop:Generator_DataSetName="BancoDeDadosDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Emprestimo" msprop:Generator_RowEvHandlerName="EmprestimoRowChangeEventHandler" msprop:Generator_RowDeletedName="EmprestimoRowDeleted" msprop:Generator_RowDeletingName="EmprestimoRowDeleting" msprop:Generator_RowEvArgName="EmprestimoRowChangeEvent" msprop:Generator_TablePropName="Emprestimo" msprop:Generator_RowChangedName="EmprestimoRowChanged" msprop:Generator_RowChangingName="EmprestimoRowChanging" msprop:Generator_TableClassName="EmprestimoDataTable" msprop:Generator_RowClassName="EmprestimoRow" msprop:Generator_TableVarName="tableEmprestimo" msprop:Generator_UserTableName="Emprestimo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_UserColumnName="ID" type="xs:int" />
+              <xs:element name="ID_x0020_usuario" msprop:Generator_ColumnPropNameInRow="ID_usuario" msprop:Generator_ColumnPropNameInTable="ID_usuarioColumn" msprop:Generator_ColumnVarNameInTable="columnID_usuario" msprop:Generator_UserColumnName="ID usuario" type="xs:int" minOccurs="0" />
+              <xs:element name="Valor_x0020_emprestimo" msprop:Generator_ColumnPropNameInRow="Valor_emprestimo" msprop:Generator_ColumnPropNameInTable="Valor_emprestimoColumn" msprop:Generator_ColumnVarNameInTable="columnValor_emprestimo" msprop:Generator_UserColumnName="Valor emprestimo" type="xs:int" minOccurs="0" />
+              <xs:element name="Data_x0020_inicio" msprop:Generator_ColumnPropNameInRow="Data_inicio" msprop:Generator_ColumnPropNameInTable="Data_inicioColumn" msprop:Generator_ColumnVarNameInTable="columnData_inicio" msprop:Generator_UserColumnName="Data inicio" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Data_x0020_Termino" msprop:Generator_ColumnPropNameInRow="Data_Termino" msprop:Generator_ColumnPropNameInTable="Data_TerminoColumn" msprop:Generator_ColumnVarNameInTable="columnData_Termino" msprop:Generator_UserColumnName="Data Termino" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Taxa_x0020_juros" msprop:Generator_ColumnPropNameInRow="Taxa_juros" msprop:Generator_ColumnPropNameInTable="Taxa_jurosColumn" msprop:Generator_ColumnVarNameInTable="columnTaxa_juros" msprop:Generator_UserColumnName="Taxa juros" type="xs:int" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_UserColumnName="Status" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Pagamentos" msprop:Generator_RowEvHandlerName="PagamentosRowChangeEventHandler" msprop:Generator_RowDeletedName="PagamentosRowDeleted" msprop:Generator_RowDeletingName="PagamentosRowDeleting" msprop:Generator_RowEvArgName="PagamentosRowChangeEvent" msprop:Generator_TablePropName="Pagamentos" msprop:Generator_RowChangedName="PagamentosRowChanged" msprop:Generator_RowChangingName="PagamentosRowChanging" msprop:Generator_TableClassName="PagamentosDataTable" msprop:Generator_RowClassName="PagamentosRow" msprop:Generator_TableVarName="tablePagamentos" msprop:Generator_UserTableName="Pagamentos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_UserColumnName="ID" type="xs:int" />
+              <xs:element name="ID_x0020_emprestimo" msprop:Generator_ColumnPropNameInRow="ID_emprestimo" msprop:Generator_ColumnPropNameInTable="ID_emprestimoColumn" msprop:Generator_ColumnVarNameInTable="columnID_emprestimo" msprop:Generator_UserColumnName="ID emprestimo" type="xs:int" minOccurs="0" />
+              <xs:element name="Valor_x0020_Pagamento" msprop:Generator_ColumnPropNameInRow="Valor_Pagamento" msprop:Generator_ColumnPropNameInTable="Valor_PagamentoColumn" msprop:Generator_ColumnVarNameInTable="columnValor_Pagamento" msprop:Generator_UserColumnName="Valor Pagamento" type="xs:int" minOccurs="0" />
+              <xs:element name="Data_x0020_pagamento" msprop:Generator_ColumnPropNameInRow="Data_pagamento" msprop:Generator_ColumnPropNameInTable="Data_pagamentoColumn" msprop:Generator_ColumnVarNameInTable="columnData_pagamento" msprop:Generator_UserColumnName="Data pagamento" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Usuarios" msprop:Generator_RowEvHandlerName="UsuariosRowChangeEventHandler" msprop:Generator_RowDeletedName="UsuariosRowDeleted" msprop:Generator_RowDeletingName="UsuariosRowDeleting" msprop:Generator_RowEvArgName="UsuariosRowChangeEvent" msprop:Generator_TablePropName="Usuarios" msprop:Generator_RowChangedName="UsuariosRowChanged" msprop:Generator_RowChangingName="UsuariosRowChanging" msprop:Generator_TableClassName="UsuariosDataTable" msprop:Generator_RowClassName="UsuariosRow" msprop:Generator_TableVarName="tableUsuarios" msprop:Generator_UserTableName="Usuarios">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_UserColumnName="ID" type="xs:int" />
+              <xs:element name="Nome" msprop:Generator_ColumnPropNameInRow="Nome" msprop:Generator_ColumnPropNameInTable="NomeColumn" msprop:Generator_ColumnVarNameInTable="columnNome" msprop:Generator_UserColumnName="Nome" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Senha" msprop:Generator_ColumnPropNameInRow="Senha" msprop:Generator_ColumnPropNameInTable="SenhaColumn" msprop:Generator_ColumnVarNameInTable="columnSenha" msprop:Generator_UserColumnName="Senha" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Emprestimo" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="Pagamentos_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Pagamentos" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="Usuarios_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Usuarios" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
